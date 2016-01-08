@@ -6,6 +6,7 @@
    * [浪潮之巅（下）](wujun/lang_chao_zhi_dian_2.md)
    * 硅谷之谜
    * 大学之路（上）
+   * 大学之路（下）
 * [罗辑思维](luojisiwei/luoji_si_wei_md.md)
    * [末日](luojisiwei/001.md)
    * [拒绝逃离北上广](luojisiwei/002.md)
