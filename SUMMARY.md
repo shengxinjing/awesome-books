@@ -4,6 +4,7 @@
 * [吴军博士](wujun/wujun_bo_shi_md.md)
    * [浪潮之巅（上）](wujun/lang_chao_zhi_dian_1.md)
    * [浪潮之巅（下）](wujun/lang_chao_zhi_dian_2.md)
+   * 硅谷之谜
 * [罗辑思维](luojisiwei/luoji_si_wei_md.md)
    * [末日](luojisiwei/001.md)
    * [拒绝逃离北上广](luojisiwei/002.md)
