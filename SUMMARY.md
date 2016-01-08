@@ -2,8 +2,8 @@
 
 * [简介](README.md)
 * [吴军博士](wujun/wujun_bo_shi_md.md)
-   * [浪潮之巅（上）](wujun/lang_chao_zhi_dian_1.md)
-   * [浪潮之巅（下）](wujun/lang_chao_zhi_dian_2.md)
+   * [浪潮之巅（上）](wujun/on_top_of_tides_1.md)
+   * [浪潮之巅（下）](wujun/on_top_of_tides_2.md)
    * 硅谷之谜
    * 大学之路（上）
    * 大学之路（下）
